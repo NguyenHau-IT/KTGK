@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dtnhn\\source\\repos\\NguyenVietHau_2280600893\\",
+  "WorkspaceRootPath": "D:\\KTGK\\NguyenVietHau_2280600893\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B98EB837-C119-401D-BF41-86F466D1EBC9}|NguyenVietHau_2280600893\\NguyenVietHau_2280600893.csproj|c:\\users\\dtnhn\\source\\repos\\nguyenviethau_2280600893\\nguyenviethau_2280600893\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B98EB837-C119-401D-BF41-86F466D1EBC9}|NguyenVietHau_2280600893\\NguyenVietHau_2280600893.csproj|d:\\ktgk\\nguyenviethau_2280600893\\nguyenviethau_2280600893\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B98EB837-C119-401D-BF41-86F466D1EBC9}|NguyenVietHau_2280600893\\NguyenVietHau_2280600893.csproj|solutionrelative:nguyenviethau_2280600893\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B98EB837-C119-401D-BF41-86F466D1EBC9}|NguyenVietHau_2280600893\\NguyenVietHau_2280600893.csproj|C:\\Users\\dtnhn\\source\\repos\\NguyenVietHau_2280600893\\nguyenviethau_2280600893\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B98EB837-C119-401D-BF41-86F466D1EBC9}|NguyenVietHau_2280600893\\NguyenVietHau_2280600893.csproj|D:\\KTGK\\NguyenVietHau_2280600893\\nguyenviethau_2280600893\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B98EB837-C119-401D-BF41-86F466D1EBC9}|NguyenVietHau_2280600893\\NguyenVietHau_2280600893.csproj|solutionrelative:nguyenviethau_2280600893\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B98EB837-C119-401D-BF41-86F466D1EBC9}|NguyenVietHau_2280600893\\NguyenVietHau_2280600893.csproj|c:\\users\\dtnhn\\source\\repos\\nguyenviethau_2280600893\\nguyenviethau_2280600893\\model\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B98EB837-C119-401D-BF41-86F466D1EBC9}|NguyenVietHau_2280600893\\NguyenVietHau_2280600893.csproj|D:\\KTGK\\NguyenVietHau_2280600893\\nguyenviethau_2280600893\\model\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B98EB837-C119-401D-BF41-86F466D1EBC9}|NguyenVietHau_2280600893\\NguyenVietHau_2280600893.csproj|solutionrelative:nguyenviethau_2280600893\\model\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B98EB837-C119-401D-BF41-86F466D1EBC9}|NguyenVietHau_2280600893\\NguyenVietHau_2280600893.csproj|c:\\users\\dtnhn\\source\\repos\\nguyenviethau_2280600893\\nguyenviethau_2280600893\\frmsinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B98EB837-C119-401D-BF41-86F466D1EBC9}|NguyenVietHau_2280600893\\NguyenVietHau_2280600893.csproj|D:\\KTGK\\NguyenVietHau_2280600893\\nguyenviethau_2280600893\\frmsinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B98EB837-C119-401D-BF41-86F466D1EBC9}|NguyenVietHau_2280600893\\NguyenVietHau_2280600893.csproj|solutionrelative:nguyenviethau_2280600893\\frmsinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,35 +48,33 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "frmSinhvien.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\dtnhn\\source\\repos\\NguyenVietHau_2280600893\\NguyenVietHau_2280600893\\frmSinhvien.Designer.cs",
+              "DocumentMoniker": "D:\\KTGK\\NguyenVietHau_2280600893\\NguyenVietHau_2280600893\\frmSinhvien.Designer.cs",
               "RelativeDocumentMoniker": "NguyenVietHau_2280600893\\frmSinhvien.Designer.cs",
-              "ToolTip": "C:\\Users\\dtnhn\\source\\repos\\NguyenVietHau_2280600893\\NguyenVietHau_2280600893\\frmSinhvien.Designer.cs",
+              "ToolTip": "D:\\KTGK\\NguyenVietHau_2280600893\\NguyenVietHau_2280600893\\frmSinhvien.Designer.cs",
               "RelativeToolTip": "NguyenVietHau_2280600893\\frmSinhvien.Designer.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAuwEsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T06:56:13.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T06:56:13.919Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Model1.cs",
-              "DocumentMoniker": "C:\\Users\\dtnhn\\source\\repos\\NguyenVietHau_2280600893\\NguyenVietHau_2280600893\\Model\\Model1.cs",
+              "DocumentMoniker": "D:\\KTGK\\NguyenVietHau_2280600893\\NguyenVietHau_2280600893\\Model\\Model1.cs",
               "RelativeDocumentMoniker": "NguyenVietHau_2280600893\\Model\\Model1.cs",
-              "ToolTip": "C:\\Users\\dtnhn\\source\\repos\\NguyenVietHau_2280600893\\NguyenVietHau_2280600893\\Model\\Model1.cs",
+              "ToolTip": "D:\\KTGK\\NguyenVietHau_2280600893\\NguyenVietHau_2280600893\\Model\\Model1.cs",
               "RelativeToolTip": "NguyenVietHau_2280600893\\Model\\Model1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T06:37:14.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T06:37:14.7Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmSinhvien.cs",
-              "DocumentMoniker": "C:\\Users\\dtnhn\\source\\repos\\NguyenVietHau_2280600893\\NguyenVietHau_2280600893\\frmSinhvien.cs",
+              "DocumentMoniker": "D:\\KTGK\\NguyenVietHau_2280600893\\NguyenVietHau_2280600893\\frmSinhvien.cs",
               "RelativeDocumentMoniker": "NguyenVietHau_2280600893\\frmSinhvien.cs",
-              "ToolTip": "C:\\Users\\dtnhn\\source\\repos\\NguyenVietHau_2280600893\\NguyenVietHau_2280600893\\frmSinhvien.cs",
+              "ToolTip": "D:\\KTGK\\NguyenVietHau_2280600893\\NguyenVietHau_2280600893\\frmSinhvien.cs",
               "RelativeToolTip": "NguyenVietHau_2280600893\\frmSinhvien.cs",
               "ViewState": "AgIAAKUAAAAAAAAAAAAEwMgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,13 +85,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "frmSinhvien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\dtnhn\\source\\repos\\NguyenVietHau_2280600893\\NguyenVietHau_2280600893\\frmSinhvien.cs",
+              "DocumentMoniker": "D:\\KTGK\\NguyenVietHau_2280600893\\NguyenVietHau_2280600893\\frmSinhvien.cs",
               "RelativeDocumentMoniker": "NguyenVietHau_2280600893\\frmSinhvien.cs",
               "ToolTip": "C:\\Users\\dtnhn\\source\\repos\\NguyenVietHau_2280600893\\NguyenVietHau_2280600893\\frmSinhvien.cs [Design]",
-              "RelativeToolTip": "NguyenVietHau_2280600893\\frmSinhvien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T06:12:37.513Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-16T06:12:37.513Z"
             }
           ]
         }
