@@ -165,6 +165,12 @@ namespace NguyenVietHau_2280600893
                     Malop = cboLop.SelectedValue.ToString()
                 };
 
+                if (string.IsNullOrWhiteSpace(txtMaSV.Text) || string.IsNullOrWhiteSpace(txtHotenSV.Text))
+                {
+                    MessageBox.Show("Vui lòng nhập đầy đủ thông tin sinh viên!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+
                 if (!context.Sinhviens.Any(s => s.MaSv == newStudent.MaSv))
                 {
                     context.Sinhviens.Add(newStudent);
