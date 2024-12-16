@@ -1,0 +1,15 @@
+C:\Users\dtnhn\source\repos\NguyenVietHau_2280600893\NguyenVietHau_2280600893\bin\Debug\NguyenVietHau_2280600893.exe.config
+C:\Users\dtnhn\source\repos\NguyenVietHau_2280600893\NguyenVietHau_2280600893\bin\Debug\NguyenVietHau_2280600893.exe
+C:\Users\dtnhn\source\repos\NguyenVietHau_2280600893\NguyenVietHau_2280600893\bin\Debug\NguyenVietHau_2280600893.pdb
+C:\Users\dtnhn\source\repos\NguyenVietHau_2280600893\NguyenVietHau_2280600893\obj\Debug\NguyenVietHau_2280600893.csproj.AssemblyReference.cache
+C:\Users\dtnhn\source\repos\NguyenVietHau_2280600893\NguyenVietHau_2280600893\obj\Debug\NguyenVietHau_2280600893.frmSinhvien.resources
+C:\Users\dtnhn\source\repos\NguyenVietHau_2280600893\NguyenVietHau_2280600893\obj\Debug\NguyenVietHau_2280600893.Properties.Resources.resources
+C:\Users\dtnhn\source\repos\NguyenVietHau_2280600893\NguyenVietHau_2280600893\obj\Debug\NguyenVietHau_2280600893.csproj.GenerateResource.cache
+C:\Users\dtnhn\source\repos\NguyenVietHau_2280600893\NguyenVietHau_2280600893\obj\Debug\NguyenVietHau_2280600893.csproj.CoreCompileInputs.cache
+C:\Users\dtnhn\source\repos\NguyenVietHau_2280600893\NguyenVietHau_2280600893\obj\Debug\NguyenVietHau_2280600893.exe
+C:\Users\dtnhn\source\repos\NguyenVietHau_2280600893\NguyenVietHau_2280600893\obj\Debug\NguyenVietHau_2280600893.pdb
+C:\Users\dtnhn\source\repos\NguyenVietHau_2280600893\NguyenVietHau_2280600893\bin\Debug\EntityFramework.dll
+C:\Users\dtnhn\source\repos\NguyenVietHau_2280600893\NguyenVietHau_2280600893\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dtnhn\source\repos\NguyenVietHau_2280600893\NguyenVietHau_2280600893\bin\Debug\EntityFramework.xml
+C:\Users\dtnhn\source\repos\NguyenVietHau_2280600893\NguyenVietHau_2280600893\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dtnhn\source\repos\NguyenVietHau_2280600893\NguyenVietHau_2280600893\obj\Debug\NguyenVi.660017C8.Up2Date
