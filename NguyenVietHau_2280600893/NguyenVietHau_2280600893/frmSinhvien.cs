@@ -204,6 +204,8 @@ namespace NguyenVietHau_2280600893
 
             btLuu.Enabled = false;
             btKhong.Enabled = false;
+            txtHotenSV.Clear();
+            txtMaSV.Clear();
         }
 
 
