@@ -74,9 +74,18 @@ namespace NguyenVietHau_2280600893
 
                 if (student != null)
                 {
-                    context.Sinhviens.Remove(student);
-                    context.SaveChanges();
-                    MessageBox.Show("Xóa sinh viên thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    DialogResult result = MessageBox.Show(
+                    "Bạn có chắc chắn muốn xoá không?",
+                    "Xác nhận xoá",
+                    MessageBoxButtons.YesNo,
+                    MessageBoxIcon.Question);
+
+                    if (result == DialogResult.Yes)
+                    {
+                        context.Sinhviens.Remove(student);
+                        context.SaveChanges();
+                        MessageBox.Show("Xóa sinh viên thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
                 }
                 else
                 {
@@ -177,6 +186,8 @@ namespace NguyenVietHau_2280600893
             MessageBox.Show("Đã lưu sinh viên!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
             btLuu.Enabled = false;
             btKhong.Enabled = false;
+            txtHotenSV.Clear();
+            txtMaSV.Clear();
         }
 
         private void btKhong_Click(object sender, EventArgs e)
@@ -207,7 +218,7 @@ namespace NguyenVietHau_2280600893
                 foreach (DataGridViewRow row in dgvSinhvien.Rows)
                 {
                    
-                    if (row.Cells["MaSv"].Value != null && row.Cells["MaSv"].Value.ToString().ToLower().Contains(searchText.ToLower()))
+                    if (row.Cells["HotenSV"].Value != null && row.Cells["HotenSV"].Value.ToString().ToLower().Contains(searchText.ToLower()))
                     {
                         row.Visible = true;
                     }
